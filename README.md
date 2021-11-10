@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The App is Responsive NavBar based on the tutorial https://www.youtube.com/watch?v=P3W7MZ3JkyA from Code&Coding. It adapt the menu bar to the size of the screen, so if it is a mobile screen it's a burger menu and a regular menu for large computer screens.
+
 ## Available Scripts
 
 In the project directory, you can run:
